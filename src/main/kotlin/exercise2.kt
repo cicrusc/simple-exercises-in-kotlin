@@ -6,7 +6,7 @@ Print each of these variables.*/
 
 fun main() {
     val number = 1
-    val string = "Kotlin"'
+    val string = "Kotlin"
     val char = 'K'
 
     println(number)
