@@ -1,4 +1,4 @@
-/*Esercizio 8: Standard Input with Java Scanner
+/*Exercise 8: Standard Input with Java Scanner
 Write a program that uses java.util.Scanner to read user input, such as a number or a string,
 and then performs some operations or calculations based on that input.*/
 
